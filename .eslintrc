@@ -1,0 +1,12 @@
+{
+	"extends": "rallycoding",
+	"parserOptions":{
+		"sourceType": "module"
+	},
+	"rules": {
+		"arrow-body-style":0,
+		"max-len": "off",
+		"no-lonely-if": "off",
+		"react/sort-comp": "off"
+	}
+}
